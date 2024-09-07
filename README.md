@@ -5,17 +5,17 @@
 
 <h1 align="center">
 <samp>Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I am 
-<b><a target="_blank" href="https:/hy-tech.my.id">Fitri HY</a></b>
+<b><a target="_blank" href="https:/hy-tech.my.id">Hafis</a></b>
 </samp>
 </h1>
 
 <p align="center" style="display: flex; justify-content: center; gap: 5px;">
- <img width="165px" style="border-radius: 10%; margin-right: 15px;" src="https://avatars.githubusercontent.com/u/155282015?v=4" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fitri-hy&show_icons=true&locale=en&layout=compact" alt="fitri-hy" />
+ <img width="165px" style="border-radius: 10%; margin-right: 15px;" src="https://media1.tenor.com/m/jLdjCFCYlLUAAAAC/clap-cheer.gif" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hafisnn&show_icons=true&locale=en&layout=compact" alt="hafisnn" />
 </p>
 
 <p align="center" style="display: flex; justify-content: center; gap: 5px;">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fitri-hy&theme=github" alt="fitri hy"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafisnn&theme=github" alt="hafisnn"/>
 </p>
 
 <p align="center">
