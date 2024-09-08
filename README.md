@@ -5,7 +5,7 @@
 
 <h1 align="center">
 <samp>Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I am 
-<b><a target="_blank" href="https:/hy-tech.my.id">Hafis</a></b>
+<b><a target="_blank" href="https://alhafis.my.id">Hafis</a></b>
 </samp>
 </h1>
 
