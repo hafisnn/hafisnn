@@ -42,15 +42,12 @@
 
 <div align="center">
 
-[![Fitri HY GitHub](https://github-readme-stats.vercel.app/api?username=fitri-hy\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/fitri-hy)
+[![Hafis  GitHub](https://github-readme-stats.vercel.app/api?username=hafisnn\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/hafisnn)
 
 </div>
 
 <p align="center" style="display: flex; justify-content: center; gap: 5px;">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fitri-hy&theme=github" alt="fitri hy"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fitri-hy&theme=github" alt="fitri hy"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafisnn&theme=github" alt="hafis"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafisnn&theme=github" alt="hafis"/>
 </p>
   
-
-
-Thank You.
